@@ -28,6 +28,7 @@ Advanced Analysis:
 Perform more complex queries involving joins and groupings to calculate metrics like revenue distribution, pizza category sales, and cumulative sales over time.
 
 
+
 Optimization and Interpretation:
 
 
@@ -117,3 +118,15 @@ Intermediate: Students will be able to join tables, group data, and calculate av
 
 
 Advanced: Students will gain expertise in advanced SQL concepts such as percentage contribution, cumulative analysis, and partitioned ranking.
+
+
+
+## Key Findings
+
+*   **Total Orders and Revenue:** The dataset contains 21,350 orders, generating a total revenue of $817,860.05.
+*   **Most Popular Pizza Size:** The Large (L) size is the most frequently ordered.
+*   **Top Selling Pizza Types:** The Classic Deluxe Pizza, The Barbecue Chicken Pizza, The Hawaiian Pizza, The Pepperoni Pizza, and The Thai Chicken Pizza are the top 5 most ordered by quantity.
+*   **Revenue Contribution by Category:** The Classic category leads in revenue contribution, followed closely by Supreme, Chicken, and Veggie categories.
+*   **Order Distribution by Hour:** Peak order times are observed in the late afternoon and early evening.
+*   **Cumulative Revenue Over Time:** The cumulative revenue shows a consistent upward trend throughout the year.
+*   **Top Revenue Generating Pizzas per Category:** Specific pizzas within each category that contribute most to revenue have been identified.
